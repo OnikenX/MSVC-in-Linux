@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "/home/oniken/.local/share/wineprefixes/windev/drive_c/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/um",
+                "/home/oniken/.local/share/wineprefixes/windev/drive_c/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/ucrt",
+                "/home/oniken/.local/share/wineprefixes/windev/drive_c/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/shared",
+                "/home/oniken/.local/share/wineprefixes/windev/drive_c/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/winrt",
+                "/home/oniken/.local/share/wineprefixes/windev/drive_c/Program Files (x86)/Windows Kits/10/Include/10.0.18362.0/cppwinrt",
+                "/home/oniken/.local/share/wineprefixes/windev/dosdevices/c:/Program Files (x86)/Windows Kits/10/Include/",
+                "/home/oniken/.local/share/wineprefixes/windev/drive_c/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.24.28314/atlmfc/include/",
+                "/home/oniken/.local/share/wineprefixes/windev/drive_c/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.24.28314/include/"
+            ],
+            "defines": [
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "/home/oniken/.local/bin/msvc",
+            "cStandard": "c11",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "msvc-x86",
+            "compilerArgs": [
+                "/DUNICODE",
+                "/D_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.18362.0",
+            "forcedInclude": []
+        }
+    ],
+    "version": 4
+}
